@@ -29,7 +29,7 @@
 		"enabled": true,
 		"mergedMining": false,
 		"clusterForks": "auto",
-		"poolAddress": "** Your pool wallet address **",
+		"poolAddress": "XwnWSFeXkYb3JxG2dvA4wDhJeaMpMY4dn5KPFCgZjAC9JmadG548nKEbQdTS51o53T5YFMXBxrRuxQMJsYGbMyKY2yDHXxMWy",
 		"intAddressPrefix": 6,
 		"blockRefreshInterval": 1000,
 		"minerTimeout": 900,
@@ -110,7 +110,7 @@
 	},
 
 	"payments": {
-		"enabled": true,
+		"enabled": false,
 		"interval": 1800,
 		"maxAddresses": 50,
 		"mixin": 1,
